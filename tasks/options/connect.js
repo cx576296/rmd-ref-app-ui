@@ -12,7 +12,7 @@ var config = {
 
         clientId: '5',
         clientSecret: 'Br3cEOFmyakCUNafARl2yezQihUr7FnZnqrPp71y',
-        serverUrl: 'http://cxnodejs.neuseer.cn',
+        serverUrl: 'http://cxuaa-ae9wkrg9.neuseer.cn',
         redirect_uri: 'http://cxnodejs.neuseer.cn/callback',
         defaultClientRoute: '/about'
 
